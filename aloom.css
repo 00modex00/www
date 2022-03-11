@@ -1,0 +1,170 @@
+*{
+scroll-behavior: smooth;
+}
+.Adjustmentandorganizationimg{
+    height: 100%;
+    width: 100%;
+}
+.discrpion{
+    padding-bottom: 3px;
+    border: solid 5px color white;
+    background-color: brown;
+    color: white;
+    z-index: 10000;
+}
+.navigion{
+   list-style: none;
+background-color:#66b3ff ;
+position: fixed;
+width: 100%;
+display: flex;
+padding: 10px;
+margin-top: -1%;
+z-index: 999;
+
+}
+.navigion a{
+   text-decoration: none;
+}
+#Adjustment-and-organization:hover {
+    color: #990099;
+    cursor: pointer;
+}
+.nervous{
+    border: solid 10px yellow;
+    background: url("pngtree-red-black-business-atmosphere-business-card-background-image_239813.jpg") no-repeat ;
+    background-size: cover;
+}
+.nervous h2{
+    color:#669999 ;
+    align-items: center;
+}
+.nervous p{
+    align-items: center;
+    color: white;
+    font-size: 20px;
+
+}
+.typeofnervousimg{
+    width: 100%;
+}
+.typeofnervous{
+    background: url("abstract-metallic-black-red-frame-sport-design-vector-21794078.jpg") no-repeat;
+    background-size: cover;
+}
+.typeofnervous h2{
+    margin: 00 30;
+    color:#1a53ff ;
+
+}
+.typeofnervous p{
+    font-size: 20px;
+    color: wheat;
+}
+.imgnervous-system-realistic{
+width: 100%;
+}
+.peripheralnervoussystem{
+background: url("2346710.jpeg");
+}
+.peripheralnervoussystem h2{
+    font-size: 30px;
+    color: #1a53ff;
+}
+.peripheralnervoussystem p{
+color: #ffffff;
+}
+.whyareneuron{
+    width: 100%;
+}
+.neuron{
+background:url("abstract-blue-background-with-beautiful-fluid-shapes-free-vector.jpg") no-repeat;
+background-size: cover;
+}
+.neuron h2{
+color: #3399ff;
+font-size: 30px
+}
+.neuron p{
+font-size:20px ;
+}
+.sensorgans{
+background: url("maxresdefault2.jpg") no-repeat;
+}
+.sensorgans h2{
+    font-size: 30px;
+    color: #1a53ff;
+}
+.sensorgans p{
+font-size: 20px;
+}
+.tongue{
+   background: url("istockphoto-1225740014-612x612.jpg")no-repeat;
+   background-size:cover;
+}
+.tongue h2{
+     font-size: 30px;
+    color: #1a53ff;
+}
+.tongue p{
+    font-size: 23px;
+}
+.nose{
+background: url("yellow-background-with-halftone-lines-design_1017-30148.jpg") no-repeat;
+background-size: cover;
+}
+.nose h2{
+    font-size: 30px;
+    color: #1a53ff;
+}
+.nose p{
+    font-size: 20px;
+}
+.ear{
+    border: #990099 solid 10px;
+}
+.ear h2{
+    font-size: 30px;
+    color: #1a53ff;
+}
+.ear p{
+    font-size: 20px;
+}
+p{
+    font-size: 20px;
+}
+.eys{
+    border: #990099 solid 10px;
+}
+.eys h2{
+    font-size: 30px;
+    color: #1a53ff;
+}
+.eys p {
+
+}
+.sdad{
+    width: 100%;
+}
+.skin{
+border: #ffbf00 solid 10px;
+}
+.skin h2{
+    font-size: 30px;
+    color: #1a53ff;
+}
+.skin p{
+    font-size: 20px;
+}
+.skin img{
+    width: 100%;
+}
+.bodysystem h2{
+color: #1a53ff;
+}
+.endocorine h3{
+    color: #1a53ff;
+}
+.bodysystem p{
+
+}
